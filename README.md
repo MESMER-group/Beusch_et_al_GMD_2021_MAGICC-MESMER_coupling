@@ -4,7 +4,7 @@
 
 This repository contains all the python code to reproduce the figures of the following paper:
 
-Beusch, L., Nicholls, Z., Gudmundsson, L., Hauser, M., Meinshausen M., and Seneviratne, S. I.: From emission scenarios to spatially resolved projections with a chain of computationally efficient emulators: MAGICC (v 7.5.1) - MESMER (v 0.8.1) coupling, Geosci. Model Dev. Discuss. [preprint], TBD, 2021.
+Beusch, L., Nicholls, Z., Gudmundsson, L., Hauser, M., Meinshausen, M., and Seneviratne, S. I.: From emission scenarios to spatially resolved projections with a chain of computationally efficient emulators: MAGICC (v7.5.1) – MESMER (v0.8.1) coupling, Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2021-252, in review, 2021.
 
 If you use any code from this repository, please cite the associated paper.
 
