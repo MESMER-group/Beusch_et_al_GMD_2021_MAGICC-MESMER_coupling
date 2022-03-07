@@ -24,7 +24,7 @@ Paper submission release: v0.5.0
 
 ## License
 
-Copyright (c) 2021 ETH Zurich, Lea Beusch.
+Copyright (c) 2021 - 2022 ETH Zurich, Lea Beusch.
 
 The content of this repository is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 or (at your option) any later version.
 
