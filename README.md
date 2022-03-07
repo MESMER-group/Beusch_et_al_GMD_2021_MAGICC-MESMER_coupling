@@ -4,9 +4,13 @@
 
 This repository contains all the python code to reproduce the figures of the following paper:
 
-Beusch, L., Nicholls, Z., Gudmundsson, L., Hauser, M., Meinshausen, M., and Seneviratne, S. I.: From emission scenarios to spatially resolved projections with a chain of computationally efficient emulators: MAGICC (v7.5.1) – MESMER (v0.8.1) coupling, Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2021-252, in review, 2021.
+Beusch, L., Nicholls, Z., Gudmundsson, L., Hauser, M., Meinshausen, M., and Seneviratne, S. I.: From emission scenarios to spatially resolved projections with a chain of computationally efficient emulators: coupling of MAGICC (v7.5.1) and MESMER (v0.8.3), Geosci. Model Dev., TBA, accepted, 2022.
 
 If you use any code from this repository, please cite the associated paper.
+
+Until the accepted paper is published, the preprint can be cited instead:
+
+Beusch, L., Nicholls, Z., Gudmundsson, L., Hauser, M., Meinshausen, M., and Seneviratne, S. I.: From emission scenarios to spatially resolved projections with a chain of computationally efficient emulators: MAGICC (v7.5.1) – MESMER (v0.8.1) coupling, Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2021-252, in review, 2021.
 
 ## Using this repository
 
@@ -22,9 +26,11 @@ However, be aware that this code only works if all input data is saved in the sa
 
 Paper submission release: v0.5.0
 
+Paper acceptance release: v1.0.0
+
 ## License
 
-Copyright (c) 2021 - 2022 ETH Zurich, Lea Beusch.
+Copyright (c) 2021-2022 ETH Zurich, Lea Beusch.
 
 The content of this repository is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 or (at your option) any later version.
 
